@@ -1,4 +1,4 @@
-package com.school.coroutines
+package com.school.coroutines.util
 
 sealed class Action {
     object RefreshData : Action()
